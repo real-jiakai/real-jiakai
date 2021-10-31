@@ -1,16 +1,35 @@
-### Hi there 👋
+<a href="https://github.com/Jaya0455">
+  <img src="https://img.shields.io/badge/-@Jaya0455-%23181717?style=flat-square&amp;logo=github" style="max-width: 100%;">
+</a>
 
-<!--
-**Jaya0455/Jaya0455** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
+  
+## 1. 介绍 :shipit: 
+  
+![](https://github.githubassets.com/images/icons/emoji/unicode/1f973.png) Hi!👋 𝗜'𝗺 Jaya ٩(๑>◡<๑)۶
 
-Here are some ideas to get you started:
++ 特点：
+  + 热衷于新奇的事物 🤩 
+  + 喜欢撰写博文 🧐
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 2. 目标 :triangular_flag_on_post:
++ 成为全栈程序猿
++ 争取考研上岸南京邮电大学
+
+
+
+## 3. 统计信息 :scroll:
+[![Libra11 github stats](https://github-readme-stats.vercel.app/api?username=Jaya0455&count_private=true&show_icons=true&theme=radical)](https://github.com/Jaya0455)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaya0455&theme=radical)](https://github.com/Jaya0455)
+
+
+## 4. 联系方式 :email:
+- 🔭 I’m currently studying in Nanjing Xiaozhuang University.
+- 🌱 I’m currently learning OS and CN. 
+- 📫 email: gujiakai2021@qq.com
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
