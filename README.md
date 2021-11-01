@@ -12,12 +12,9 @@
   + 热衷于新奇的事物 🤩 
   + 喜欢撰写博文 🧐
 
-
 ## 2. 目标 :triangular_flag_on_post:
-+ 成为全栈程序猿
-+ 争取考研上岸南京邮电大学
-
-
+- [ ] 成为全栈程序猿
+- [ ] 争取考研上岸南京邮电大学
 
 ## 3. 统计信息 :scroll:
 [![Libra11 github stats](https://github-readme-stats.vercel.app/api?username=Jaya0455&count_private=true&show_icons=true&theme=radical)](https://github.com/Jaya0455)
