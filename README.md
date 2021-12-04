@@ -25,11 +25,10 @@ Hi!👋 𝗜'𝗺 Jaya ٩(๑>◡<๑)۶
 ## 4. 联系方式 :email:
 - 🔭 I’m currently studying in Nanjing Xiaozhuang University.
 - 🌱 I’m currently learning OS and CN. 
-- 📫 email: gujiakai@jaya.wiki
+- 📫 email: gujiakai2021@qq.com
 
 ## 5.个人博客网站 ✒️
-[Wordpress博客](https://www.gujiakai.top)<br/>
-[Hexo博客](https://blog.jaya.wiki)
+[Hexo博客](https://hexo.gujiakai.top)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
