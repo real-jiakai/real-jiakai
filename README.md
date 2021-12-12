@@ -4,31 +4,29 @@
 
 <br/>
   
-## 1. 介绍 :shipit: 
+## 1. Introduction :shipit: 
   
 Hi!👋 𝗜'𝗺 Jaya ٩(๑>◡<๑)۶
 
-特点：
-+ 热衷于新奇的事物 🤩 
-+ 喜欢撰写博文 🧐
+Specialties: Programming,Writing & Editing
 
-## 2. 目标 :triangular_flag_on_post:
-- [ ] 成为全栈程序猿
-- [ ] 争取考研上岸南京邮电大学
+## 2. Goal :triangular_flag_on_post:
 
-## 3. 统计信息 :scroll:
+- Become a full stack programmer in the future.
+- Change the world through code.
+
+## 3. Statistical information:scroll:
 [![Libra11 github stats](https://github-readme-stats.vercel.app/api?username=Jaya0455&count_private=true&show_icons=true&theme=radical)](https://github.com/Jaya0455)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaya0455&theme=radical)](https://github.com/Jaya0455)
 
 
-## 4. 联系方式 :email:
+## 4. Contact :email:
 - 🔭 I’m currently studying in Nanjing Xiaozhuang University.
 - 🌱 I’m currently learning OS and CN. 
 - 📫 email: gujiakai2021@qq.com
 
-## 5.个人博客网站 ✒️
-[Hexo博客](https://hexo.gujiakai.top)
+## 5. Personal Website ✒️
+[Click me](https://www.gujiakai.top)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
