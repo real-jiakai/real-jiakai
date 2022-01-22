@@ -23,7 +23,7 @@ Specialties: Programming,Writing & Editing
 
 ## 4. Contact :email:
 - 🔭 I’m currently studying in Nanjing Xiaozhuang University.
-- 🌱 I’m currently learning OS and CN. 
+- 🌱 I’m currently spending winter vacation.
 - 📫 email: gujiakai2021@qq.com
 
 ## 5. Personal Website ✒️
