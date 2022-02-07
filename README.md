@@ -3,9 +3,9 @@
 </a>
 
 <br/>
-  
-## 1. Introduction :shipit: 
-  
+
+## 1. Introduction :shipit:
+
 Hi!👋 𝗜'𝗺 Jaya ٩(๑>◡<๑)۶
 
 Specialties: Programming,Writing & Editing
@@ -16,6 +16,9 @@ Specialties: Programming,Writing & Editing
 - Change the world through code.
 
 ## 3. Statistical information:scroll:
+
+![](https://raw.githubusercontent.com/Jaya0455/Jaya0455/main/assets/github-contribution-grid-snake.svg)
+
 [![Libra11 github stats](https://github-readme-stats.vercel.app/api?username=Jaya0455&count_private=true&show_icons=true&theme=radical)](https://github.com/Jaya0455)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaya0455&theme=radical)](https://github.com/Jaya0455)
