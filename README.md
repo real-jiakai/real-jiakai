@@ -26,7 +26,7 @@ Specialties: Programming,Writing & Editing
 
 ## 4. Contact :email:
 - 🔭 I’m currently studying in Nanjing Xiaozhuang University.
-- 🌱 I’m currently spending winter vacation.
+- 🌱 I’m currently reviewing postgraduate entrance exams and learning about artificial intelligence.
 - 📫 email: 2260016947@qq.com
 
 ## 5. Personal Website ✒️
