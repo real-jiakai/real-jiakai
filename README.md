@@ -6,7 +6,7 @@
 
 ## 1. Introduction :shipit:
 
-Hi!👋 𝗜'𝗺 Jaya ٩(๑>◡<๑)۶
+[![github-profile](https://raw.githubusercontent.com/Jaya0455/Jaya0455/main/assets/hello-im-jaya.svg)](https://www.calligrapher.ai/)
 
 Specialties: Programming,Writing & Editing
 
@@ -31,5 +31,4 @@ Specialties: Programming,Writing & Editing
 
 ## 5. Personal Website ✒️
 [Click me](https://www.gujiakai.top)
-
 
