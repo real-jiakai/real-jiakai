@@ -1,5 +1,5 @@
 <a href="https://github.com/real-jiakai">
-  <img src="https://img.shields.io/badge/-@real-jiakai-%23181717?style=flat-square&amp;logo=github" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/github-real--jiakai-lightgrey?logo=github" style="max-width: 100%;">
 </a>
 
 <br/>
