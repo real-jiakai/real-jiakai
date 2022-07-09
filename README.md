@@ -2,6 +2,13 @@
   <img src="https://img.shields.io/badge/github-real--jiakai-lightgrey?logo=github" style="max-width: 100%;">
 </a>
 
+<p align="center">
+    <a href="https://muselink.cc">me</a> .
+    <a href="https://jiakai.page">blog</a> .
+    <a href="https://gujiakai.zhubai.love">newsletter</a> .
+    <a href="https://space.bilibili.com/488592525">bilibili</a>
+</p>
+
 <br/>
 
 ## 1. Introduction :shipit:
@@ -26,8 +33,8 @@ Specialties: Programming,Writing & Editing
 
 ## 4. Contact :email:
 - 🔭 I’m currently studying in Nanjing Xiaozhuang University.
-- 🌱 I’m currently reviewing postgraduate entrance exams and learning about artificial intelligence.
-- 📫 email: hi@jiakai.page
+- 🌱 I’m currently reviewing postgraduate entrance exams and learning about Django Framework & Vue.
+- 📫 email: hi@jiakai.page 
 
 ## 5. Personal Website ✒️
 [Click me](https://jiakai.page)
