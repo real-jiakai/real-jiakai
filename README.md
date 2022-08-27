@@ -34,7 +34,7 @@ Specialties: Programming,Writing & Editing
 ## 4. Contact :email:
 - 🔭 I’m currently studying in Nanjing Xiaozhuang University.
 - 🌱 I’m currently reviewing postgraduate entrance exams and learning about Django Framework & Vue.
-- 📫 email: hi@jiakai.page 
+- 📫 email: jiakai@duck.com
 
 ## 5. Personal Website ✒️
 [Click me](https://jiakai.page)
