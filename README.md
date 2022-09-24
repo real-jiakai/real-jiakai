@@ -30,12 +30,15 @@ Specialties: Programming,Writing & Editing
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=real-jiakai&theme=radical)](https://github.com/real-jiakai)
 
+## 4.Recently listen :musical_note:
 
-## 4. Contact :email:
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31xulne5z45q3wqlwgogsrxcsgg4&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
+
+## 5. Contact :email:
 - 🔭 I’m currently studying in Nanjing Xiaozhuang University.
 - 🌱 I’m currently reviewing postgraduate entrance exams and learning about Django Framework & Vue.
 - 📫 email: jiakai@duck.com
 
-## 5. Personal Website ✒️
-[Click me](https://jiakai.page)
+## 6. Personal Website ✒️
+[Click me](https://blog.gujiakai.top)
 
