@@ -3,9 +3,7 @@
 </a>
 
 <p align="center">
-    <a href="https://muselink.cc">me</a> .
-    <a href="https://jiakai.page">blog</a> .
-    <a href="https://gujiakai.zhubai.love">newsletter</a> .
+    <a href="https://blog.gujiakai.top">blog</a> .
     <a href="https://space.bilibili.com/488592525">bilibili</a>
 </p>
 
@@ -38,7 +36,4 @@ Specialties: Programming,Writing & Editing
 - 🔭 I’m currently studying in Nanjing Xiaozhuang University.
 - 🌱 I’m currently reviewing postgraduate entrance exams and learning about Django Framework & Vue.
 - 📫 email: jiakai@duck.com
-
-## 6. Personal Website ✒️
-[Click me](https://blog.gujiakai.top)
 
