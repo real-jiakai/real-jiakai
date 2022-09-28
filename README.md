@@ -30,7 +30,7 @@ Specialties: Programming,Writing & Editing
 
 ## 4.Recently listen :musical_note:
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31xulne5z45q3wqlwgogsrxcsgg4&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31xulne5z45q3wqlwgogsrxcsgg4&cover_image=true&theme=compact)
 
 ## 5. Contact :email:
 - 🔭 I’m currently studying in Nanjing Xiaozhuang University.
