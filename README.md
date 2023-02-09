@@ -5,7 +5,7 @@
 <p align="center">
     <a href="https://blog.gujiakai.top">blog</a> .
     <a href="https://space.bilibili.com/488592525">bilibili</a> .
-    <a href="https://running.jiakai.page">running page</a>
+    <a href="https://running.gujiakai.top">running page</a>
 </p>
 
 <br/>
