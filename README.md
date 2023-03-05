@@ -24,7 +24,7 @@ Specialties: Programming,Writing & Editing
 
 ## 3. Statistical information:scroll:
 
-- github-contribution
+- github contribution
 
 ![github-contribution-grid-snake](https://raw.githubusercontent.com/real-jiakai/real-jiakai/main/assets/github-contribution-grid-snake.svg)
 
