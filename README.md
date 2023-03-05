@@ -3,6 +3,7 @@
 </a>
 
 <p align="center">
+    <a href="https://gujiakai.top">weekly</a> .
     <a href="https://blog.gujiakai.top">blog</a> .
     <a href="https://space.bilibili.com/488592525">bilibili</a> .
     <a href="https://running.gujiakai.top">running page</a>
@@ -12,7 +13,7 @@
 
 ## 1. Introduction :shipit:
 
-[![github-profile](https://raw.githubusercontent.com/real-jiakai/real-jiakai/main/assets/hello-im-jaya.svg)](https://www.calligrapher.ai/)
+[![hello-github](https://raw.githubusercontent.com/real-jiakai/real-jiakai/main/assets/hello-im-jaya.svg)](https://www.calligrapher.ai/)
 
 Specialties: Programming,Writing & Editing
 
@@ -23,9 +24,19 @@ Specialties: Programming,Writing & Editing
 
 ## 3. Statistical information:scroll:
 
-![](https://raw.githubusercontent.com/real-jiakai/real-jiakai/main/assets/github-contribution-grid-snake.svg)
+- github-contribution
+
+![github-contribution-grid-snake](https://raw.githubusercontent.com/real-jiakai/real-jiakai/main/assets/github-contribution-grid-snake.svg)
+
+- waka time
+
+![wakatime](https://wakatime.com/share/@Jaya/b277c128-2898-4b50-a06b-80e5e93e642d.svg)
+
+- github stats
 
 [![Libra11 github stats](https://github-readme-stats.vercel.app/api?username=real-jiakai&count_private=true&show_icons=true&theme=radical)](https://github.com/real-jiakai)
+
+- most used languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=real-jiakai&theme=radical)](https://github.com/real-jiakai)
 
