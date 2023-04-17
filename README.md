@@ -15,7 +15,7 @@
 
 [![hello-github](https://raw.githubusercontent.com/real-jiakai/real-jiakai/main/assets/hello-im-jaya.svg)](https://www.calligrapher.ai/)
 
-Specialties: Programming,Writing & Editing
+Specialties: Programming && Blogging && AI Prompt Engineer
 
 ## 2. Goal :triangular_flag_on_post:
 
