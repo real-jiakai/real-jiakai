@@ -22,7 +22,12 @@ Specialties: Programming && Blogging && AI Prompt Engineer
 - Become a full stack programmer in the future.
 - Change the world through code.
 
-## 3. Statistical information:scroll:
+## 3. Recent Articles
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+## 4. Statistical information:scroll:
 
 - github contribution
 
@@ -40,11 +45,11 @@ Specialties: Programming && Blogging && AI Prompt Engineer
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=real-jiakai&theme=radical)](https://github.com/real-jiakai)
 
-## 4.Recently listen :musical_note:
+## 5. Recently listen :musical_note:
 
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31xulne5z45q3wqlwgogsrxcsgg4&cover_image=true&theme=compact)
 
-## 5. Contact :email:
+## 6. Contact :email:
 - 🔭 I’m currently studying in Nanjing Xiaozhuang University.
 - 🌱 I’m currently learning programming and preparing for the job seeking.
 - 📫 email: jiakai@duck.com
