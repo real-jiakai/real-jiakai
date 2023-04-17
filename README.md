@@ -25,6 +25,11 @@ Specialties: Programming && Blogging && AI Prompt Engineer
 ## 3. Recent Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Feed43的继承者—Rsseverything制作RSS源教学](https://blog.gujiakai.top/2023/03/create-rss-feed-with-rsseverything-tutorial.html)
+- [Sorry, looks like your network settings are preventing access to this feature—new bing网络问题的解决对策](https://blog.gujiakai.top/2023/03/solutions-for-network-error-of-new-bing.html)
+- [Hugo主题开发日记](https://blog.gujiakai.top/2023/03/hugo-theme-development-diary.html)
+- [Google voice正在连接的解决方案](https://blog.gujiakai.top/2023/03/the-solution-of-google-voice-is-connecting.html)
+- [Docker容器服务不受防火墙限制？](https://blog.gujiakai.top/2023/03/will-docker-container-be-limited-by-firewall.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 4. Statistical information:scroll:
