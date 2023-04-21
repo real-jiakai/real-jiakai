@@ -22,9 +22,9 @@ Specialties: Programming && Blogging && AI Prompt Engineer
 - Become a full stack programmer in the future.
 - Change the world through code.
 
-## 3. Recent Articles
+## 3. Recent Articles :pencil:
 
-### 3.1. Blog Posts
+### 3.1. Blog Posts :page_facing_up:
 
 <!-- BLOG-POST-LIST:START -->
 - [Feed43的继承者—Rsseverything制作RSS源教学](https://blog.gujiakai.top/2023/03/create-rss-feed-with-rsseverything-tutorial.html)
@@ -34,7 +34,7 @@ Specialties: Programming && Blogging && AI Prompt Engineer
 - [Docker容器服务不受防火墙限制？](https://blog.gujiakai.top/2023/03/will-docker-container-be-limited-by-firewall.html)
 <!-- BLOG-POST-LIST:END -->
 
-### 3.2. Weekly Posts
+### 3.2. Weekly Posts :page_facing_up:
 
 <!-- WEEKLY-POST-LIST:START -->
 - [今天我学了什么 #15](https://gujiakai.top/2023/02/weekly-issue-15.html)
