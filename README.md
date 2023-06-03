@@ -27,11 +27,11 @@ Specialties: Programming && Blogging && AI Prompt Engineer
 ### 3.1. Blog Posts :page_facing_up:
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT插件列表整理](https://blog.gujiakai.top/2023/06/chatgpt-plugins-list.html)
 - [非open ai服务地区的VPS解锁ChatGPT的方法](https://blog.gujiakai.top/2023/06/unlock-chatgpt-when-vps-been-judged-cn-by-cloudflare.html)
 - [关于openai清退plus用户事件的思考](https://blog.gujiakai.top/2023/05/thinking-of-openai-ban-plus-customers-in-527.html)
 - [Feed43的继承者—Rsseverything制作RSS源教学](https://blog.gujiakai.top/2023/03/create-rss-feed-with-rsseverything-tutorial.html)
 - [Sorry, looks like your network settings are preventing access to this feature—new bing网络问题的解决对策](https://blog.gujiakai.top/2023/03/solutions-for-network-error-of-new-bing.html)
-- [Hugo主题开发日记](https://blog.gujiakai.top/2023/03/hugo-theme-development-diary.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 3.2. Weekly Posts :page_facing_up:
