@@ -67,7 +67,7 @@ Specialties: Programming && Blogging && AI Prompt Engineer
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31xulne5z45q3wqlwgogsrxcsgg4&cover_image=true&theme=compact)
 
 ## 6. Contact :email:
-- 🔭 I’m currently studying in Nanjing Xiaozhuang University.
-- 🌱 I’m currently learning programming and preparing for the job seeking.
+- 🔭 I’m a 2023 graduate of Nanjing Xiaozhuang University and a freshman of Guangxi Minzu University.
+- 🌱 I’m currently learning programming and preparing for the postgraduate study.
 - 📫 email: jiakai@duck.com
 
