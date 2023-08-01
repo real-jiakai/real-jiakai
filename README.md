@@ -1,7 +1,14 @@
+![github logo](https://img.shields.io/badge/github-real--jiakai-lightgrey?logo=github)
 
 
-
-weekly . blog . bilibili . running page
+<p align="center">
+  <samp>
+    <a href="https://gujiakai.top">weekly</a> .
+    <a href="https://blog.gujiakai.top">blog</a> .
+    <a href="https://space.bilibili.com/488592525">bilibili</a> .
+    <a href="https://running.gujiakai.top">running page</a> .
+  </samp>
+</p>
 
 
 ## 1. Introduction :shipit:
