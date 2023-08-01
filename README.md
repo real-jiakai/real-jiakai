@@ -13,6 +13,8 @@
 
 ## 1. Introduction :shipit:
 
+![hello i am jaya](https://raw.githubusercontent.com/real-jiakai/real-jiakai/main/assets/hello-im-jaya.svg)
+
 Specialties: Programming && Blogging && AI Prompt Engineer
 
 ## 2. Goal 🚩
@@ -28,17 +30,15 @@ Change the world through code.
 
 
 ## 4. Statistical information📜
-github contribution
-github-contribution-grid-snake
 
-waka time
-wakatime
+- github contribution
 
-github stats
-Libra11 github stats
 
-most used languages
-Top Langs
+- waka time
+
+- github stats
+
+- most used languages
 
 ## 5. Recently listen 🎵
 
