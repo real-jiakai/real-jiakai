@@ -1,6 +1,5 @@
 ![github logo](https://img.shields.io/badge/github-real--jiakai-lightgrey?logo=github)
 
-
 <p align="center">
   <samp>
     <a href="https://gujiakai.top">weekly</a> .
@@ -9,7 +8,6 @@
     <a href="https://running.gujiakai.top">running page</a> .
   </samp>
 </p>
-
 
 ## 1. Introduction :shipit:
 
@@ -47,6 +45,8 @@ Change the world through code.
 ## 4. Statistical information📜
 
 - github contribution
+
+![github contribution](https://raw.githubusercontent.com/real-jiakai/real-jiakai/output/github-contribution-grid-snake.svg)
 
 - waka time
 
