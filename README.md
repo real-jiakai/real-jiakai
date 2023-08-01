@@ -26,19 +26,29 @@ Change the world through code.
 
 ### 3.1. Blog Posts 📄
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ### 3.2. Weekly Posts 📄
 
+<!-- WEEKLY-POST-LIST:START -->
+<!-- WEEKLY-POST-LIST:END -->
 
 ## 4. Statistical information📜
 
 - github contribution
 
-
 - waka time
+
+![waka time](https://wakatime.com/share/@Jaya/b277c128-2898-4b50-a06b-80e5e93e642d.svg)
 
 - github stats
 
+![github stats](https://github-readme-stats.vercel.app/api?username=real-jiakai&count_private=true&show_icons=true&theme=radical)
+
 - most used languages
+
+![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=real-jiakai&theme=radical)
 
 ## 5. Recently listen 🎵
 
