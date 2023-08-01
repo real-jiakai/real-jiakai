@@ -32,6 +32,11 @@ Change the world through code.
 ### 3.2. Weekly Posts 📄
 
 <!-- WEEKLY-POST-LIST:START -->
+- [今天我学了什么 #15](https://gujiakai.top/2023/02/weekly-issue-15)
+- [互联网是有记忆的？#14](https://gujiakai.top/2023/01/weekly-issue-14)
+- [囤积信息的坏习惯 #13](https://gujiakai.top/2023/01/weekly-issue-13)
+- [毕业季该如何突围？ #12](https://gujiakai.top/2023/01/weekly-issue-12)
+- [你好2023 #11](https://gujiakai.top/2023/01/weekly-issue-11)
 <!-- WEEKLY-POST-LIST:END -->
 
 ## 4. Statistical information📜
