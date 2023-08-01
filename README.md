@@ -39,6 +39,6 @@ Top Langs
 
 ## 6. Contact 📧
 
-🔭 I’m a 2023 graduate of Nanjing Xiaozhuang University and a freshman of Guangxi Minzu University.
-🌱 I’m currently learning programming and preparing for the postgraduate study.
-📫 email: jiakai@duck.com
+- 🔭 I’m a 2023 graduate of Nanjing Xiaozhuang University and a freshman of Guangxi Minzu University.
+- 🌱 I’m currently learning programming and preparing for the postgraduate study.
+- 📫 email: jiakai@duck.com
