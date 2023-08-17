@@ -25,11 +25,11 @@ Change the world through code.
 ### 3.1. Blog Posts 📄
 
 <!-- BLOG-POST-LIST:START -->
+- [修改ip归属地为朝鲜、南极洲的方法](https://blog.gujiakai.top/2023/08/methods-for-setting-ip-to-north-korea-and-antarctica.html)
+- [chatgpt安卓报错date and time的解决方案](https://blog.gujiakai.top/2023/08/solving-date-and-time-error-in-chatgpt-android-app.html)
 - [搬瓦工theplanv2安装caddy启动失败的解决方案](https://blog.gujiakai.top/2023/06/solving-caddy-failure-on-bandwagonhost-theplanv2.html)
 - [chika登陆器在windows server上闪退的解决方案](https://blog.gujiakai.top/2023/06/fix-chika-crash-on-windows-server.html)
 - [ChatGPT插件列表整理](https://blog.gujiakai.top/2023/06/chatgpt-plugins-list.html)
-- [非open ai服务地区的VPS解锁ChatGPT的方法](https://blog.gujiakai.top/2023/06/unlock-chatgpt-when-vps-been-judged-cn-by-cloudflare.html)
-- [关于openai清退plus用户事件的思考](https://blog.gujiakai.top/2023/05/thinking-of-openai-ban-plus-customers-in-527.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 3.2. Weekly Posts 📄
