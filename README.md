@@ -66,6 +66,6 @@ Change the world through code.
 
 ## 6. Contact 📧
 
-- 🔭 I’m a 2023 graduate of Nanjing Xiaozhuang University and a freshman of Guangxi Minzu University.
-- 🌱 I’m currently learning programming and preparing for the postgraduate study.
+- 🔭 I'm a 2023 graduate of Nanjing Xiaozhuang University and a freshman of Guangxi Minzu University.
+- 🌱 I'm gearing up for the commencement of my graduate studies on September 9, 2023.
 - 📫 email: jiakai@duck.com
