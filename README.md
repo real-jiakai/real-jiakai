@@ -25,11 +25,11 @@ Change the world through code.
 ### 3.1. Blog Posts 📄
 
 <!-- BLOG-POST-LIST:START -->
+- [hxservers网络问题的解决方案](https://blog.gujiakai.top/2023/10/solving-hxservers-network-issues.html)
 - [体验icloud+ private relay](https://blog.gujiakai.top/2023/10/experience-icloud-plus-private-relay.html)
 - [hxservers搭建google one vpn节点教程](https://blog.gujiakai.top/2023/10/hxservers-google-one-node-setup-guide.html)
 - [windows git bash conda激活环境报错UnicodeDecodeError: &#39;gbk&#39; codec can&#39;t decode byte 0xaf in position 271: illegal multibyte sequence的解决方案](https://blog.gujiakai.top/2023/09/conda-activation-error-unicode-decode-gbk.html)
 - [从一台搬瓦工机器迁移到另一台搬瓦工机器笔记](https://blog.gujiakai.top/2023/09/notes-about-migrating-from-one-bandwagon-host-to-another.html)
-- [利用windows热点和clash-tun模式实现kindle科学上网](https://blog.gujiakai.top/2023/09/using-windows-hotspot-and-clash-tun-for-kindle-internet-access.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 3.2. Weekly Posts 📄
