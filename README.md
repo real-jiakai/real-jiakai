@@ -60,11 +60,6 @@ Change the world through code.
 
 ![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=real-jiakai&theme=radical)
 
-- my badges
-
-<!-- my-badges start -->
-<!-- my-badges end -->
-
 ## 5. Recently listen 🎵
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31xulne5z45q3wqlwgogsrxcsgg4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
