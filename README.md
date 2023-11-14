@@ -25,11 +25,11 @@ Change the world through code.
 ### 3.1. Blog Posts 📄
 
 <!-- BLOG-POST-LIST:START -->
+- [Racknerd的ubuntu机器报错&#39;UFS: unable to mount root fs on unknown-block.&#39;的解决方案](https://blog.gujiakai.top/2023/11/racknerd-ubuntu-ufs-fix.html)
 - [chatgpt安卓报错disallowed ISP的解决方案](https://blog.gujiakai.top/2023/10/chatgpt-android-error-disallowed-isp-solution.html)
 - [使用docker自建proxigram](https://blog.gujiakai.top/2023/10/use-docker-compose-to-build-proxigram.html)
 - [hxservers网络问题的解决方案](https://blog.gujiakai.top/2023/10/solving-hxservers-network-issues.html)
 - [体验icloud+ private relay](https://blog.gujiakai.top/2023/10/experience-icloud-plus-private-relay.html)
-- [hxservers搭建google one vpn节点教程](https://blog.gujiakai.top/2023/10/hxservers-google-one-node-setup-guide.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 3.2. Weekly Posts 📄
