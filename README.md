@@ -27,7 +27,7 @@ Change the world through code.
 <!-- BLOG-POST-LIST:START -->
 - [My App Defaults 2023](https://blog.gujiakai.top/2023/11/my-app-defaults-2023.html)
 - [Racknerd的ubuntu机器报错&#39;UFS: unable to mount root fs on unknown-block.&#39;的解决方案](https://blog.gujiakai.top/2023/11/racknerd-ubuntu-ufs-fix.html)
-- [chatgpt安卓报错disallowed ISP的解决方案](https://blog.gujiakai.top/2023/10/chatgpt-android-error-disallowed-isp-solution.html)
+- [chatgpt安卓报错disallowed ISP/There is a problem with your request的解决方案](https://blog.gujiakai.top/2023/10/chatgpt-android-error-disallowed-isp-solution.html)
 - [使用docker自建proxigram](https://blog.gujiakai.top/2023/10/use-docker-compose-to-build-proxigram.html)
 - [hxservers网络问题的解决方案](https://blog.gujiakai.top/2023/10/solving-hxservers-network-issues.html)
 <!-- BLOG-POST-LIST:END -->
