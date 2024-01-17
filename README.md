@@ -25,11 +25,11 @@ Change the world through code.
 ### 3.1. Blog Posts 📄
 
 <!-- BLOG-POST-LIST:START -->
+- [apt安装软件报错Operation not permitted的解决方案](https://blog.gujiakai.top/2024/01/fix-apt-install-operation-not-permitted-error.html)
 - [ChatGPT Team账号体验](https://blog.gujiakai.top/2024/01/chatgpt-team-experience.html)
 - [2023黑五服务器购物总结](https://blog.gujiakai.top/2023/11/summary-of-server-shop-of-2023-bf.html)
 - [My App Defaults 2023](https://blog.gujiakai.top/2023/11/my-app-defaults-2023.html)
 - [Racknerd的ubuntu机器报错&#39;UFS: unable to mount root fs on unknown-block.&#39;的解决方案](https://blog.gujiakai.top/2023/11/racknerd-ubuntu-ufs-fix.html)
-- [chatgpt安卓报错disallowed ISP/There is a problem with your request的解决方案](https://blog.gujiakai.top/2023/10/chatgpt-android-error-disallowed-isp-solution.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 3.2. Weekly Posts 📄
