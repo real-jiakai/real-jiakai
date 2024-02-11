@@ -25,11 +25,11 @@ Change the world through code.
 ### 3.1. Blog Posts 📄
 
 <!-- BLOG-POST-LIST:START -->
+- [Gemini安卓 App不支持此设备的解决方案](https://blog.gujiakai.top/2024/02/solving-gemini-device-compatibility-issues.html)
 - [Lightsail迁移至ipv6 only实例过程记录](https://blog.gujiakai.top/2024/01/migrating-to-ipv6-only-instance-on-lightsail.html)
 - [apt安装软件报错Operation not permitted的解决方案](https://blog.gujiakai.top/2024/01/fix-apt-install-operation-not-permitted-error.html)
 - [ChatGPT Team账号体验](https://blog.gujiakai.top/2024/01/chatgpt-team-experience.html)
 - [2023黑五服务器购物总结](https://blog.gujiakai.top/2023/11/summary-of-server-shop-of-2023-bf.html)
-- [My App Defaults 2023](https://blog.gujiakai.top/2023/11/my-app-defaults-2023.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 3.2. Weekly Posts 📄
