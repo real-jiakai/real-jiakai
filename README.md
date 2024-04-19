@@ -26,10 +26,10 @@ Change the world through code.
 
 <!-- BLOG-POST-LIST:START -->
 - [Google One VPN停用的替代方案](https://blog.gujiakai.top/2024/04/alternatives-to-google-one-vpn-shutdown.html)
-- [GoogleOneVPN停用的替代品方案](https://blog.gujiakai.top/2024/04/alternatives-to-google-one-vpn-shutdown.html)
 - [虚假的自托管爱好者](https://blog.gujiakai.top/2024/04/fake-selfhost-lover.html)
 - [关于Ikihost换ip风波的经验分享](https://blog.gujiakai.top/2024/03/experience-sharing-on-ikihost-ip-change-ordeal.html)
 - [Gemini安卓 App不支持此设备的解决方案](https://blog.gujiakai.top/2024/02/solving-gemini-device-compatibility-issues.html)
+- [Lightsail迁移至ipv6 only实例过程记录](https://blog.gujiakai.top/2024/01/migrating-to-ipv6-only-instance-on-lightsail.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 3.2. Weekly Posts 📄
