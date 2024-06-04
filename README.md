@@ -26,11 +26,11 @@ Change the world through code.
 ### 3.1. Blog Posts 📄
 
 <!-- BLOG-POST-LIST:START -->
+- [年轻人的第一个ASN](https://blog.gujiakai.top/2024/06/the-first-asn-of-young-people.html)
 - [自建Nginx Proxy Manger的替代品—Zoraxy](https://blog.gujiakai.top/2024/05/selfhost-zoraxy-an-alternative-to-nginx-proxy-manager.html)
 - [Google One VPN停用的替代方案](https://blog.gujiakai.top/2024/04/alternatives-to-google-one-vpn-shutdown.html)
 - [虚假的自托管爱好者](https://blog.gujiakai.top/2024/04/fake-selfhost-lover.html)
 - [关于Ikihost换ip风波的经验分享](https://blog.gujiakai.top/2024/03/experience-sharing-on-ikihost-ip-change-ordeal.html)
-- [Gemini安卓 App不支持此设备的解决方案](https://blog.gujiakai.top/2024/02/solving-gemini-device-compatibility-issues.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 3.2. Weekly Posts 📄
