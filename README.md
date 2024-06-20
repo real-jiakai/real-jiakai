@@ -63,7 +63,7 @@ Change the world through code.
 
 ## 5. Recently listen 🎵
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31xulne5z45q3wqlwgogsrxcsgg4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31xulne5z45q3wqlwgogsrxcsgg4)
 
 ## 6. Contact 📧
 
