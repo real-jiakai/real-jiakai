@@ -55,11 +55,11 @@ Change the world through code.
 
 - github stats
 
-![github stats](https://github-readme-stats.vercel.app/api?username=real-jiakai&count_private=true&show_icons=true&theme=radical)
+![github stats](https://github-readme-stats-jiakai.vercel.app/api?username=real-jiakai&count_private=true&show_icons=true&theme=radical)
 
 - most used languages
 
-![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=real-jiakai&theme=radical)
+![most used languages](https://github-readme-stats-jiakai.vercel.app/api/top-langs/?username=real-jiakai&theme=radical)
 
 ## 5. Recently listen 🎵
 
