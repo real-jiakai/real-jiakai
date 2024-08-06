@@ -26,11 +26,11 @@ Change the world through code.
 ### 3.1. Blog Posts 📄
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta.AI美国IP区域不受支持的解决方案](https://blog.gujiakai.top/2024/08/meta-ai-us-ip-restriction-solutions.html)
+- [Proton Family Plan尝鲜](https://blog.gujiakai.top/2024/08/proton-family-plan-first-taste.html)
 - [自建小红书和Instagram的替代品—Pixelfed](https://blog.gujiakai.top/2024/07/build-your-own-xiaohongshu-instagram-alternative-pixelfed.html)
 - [年轻人的第一个ASN](https://blog.gujiakai.top/2024/06/the-first-asn-of-young-people.html)
 - [自建Nginx Proxy Manger的替代品—Zoraxy](https://blog.gujiakai.top/2024/05/selfhost-zoraxy-an-alternative-to-nginx-proxy-manager.html)
-- [Google One VPN停用的替代方案](https://blog.gujiakai.top/2024/04/alternatives-to-google-one-vpn-shutdown.html)
-- [虚假的自托管爱好者](https://blog.gujiakai.top/2024/04/fake-selfhost-lover.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 3.2. Weekly Posts 📄
