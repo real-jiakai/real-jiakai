@@ -26,11 +26,11 @@ Change the world through code.
 ### 3.1. Blog Posts 📄
 
 <!-- BLOG-POST-LIST:START -->
+- [小红书RSS的解决方案](https://blog.gujiakai.top/2024/09/xiaohongshu-rss-tips.html)
 - [为什么CSDN是一坨屎](https://blog.gujiakai.top/2024/09/why-is-csdn-a-pile-of-shit.html)
 - [机缘巧合：我与Bero Host优惠VPS的不期而遇](https://blog.gujiakai.top/2024/08/unexpected-bero-host-vps-bargain.html)
 - [Meta.AI美国IP区域不受支持的解决方案](https://blog.gujiakai.top/2024/08/meta-ai-us-ip-restriction-solutions.html)
 - [Proton Family Plan尝鲜](https://blog.gujiakai.top/2024/08/proton-family-plan-first-taste.html)
-- [自建小红书和Instagram的替代品—Pixelfed](https://blog.gujiakai.top/2024/07/build-your-own-xiaohongshu-instagram-alternative-pixelfed.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 3.2. Weekly Posts 📄
