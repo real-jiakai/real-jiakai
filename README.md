@@ -26,11 +26,11 @@ Change the world through code.
 ### 3.1. Blog Posts 📄
 
 <!-- BLOG-POST-LIST:START -->
+- [Gemini Advanced 2024年10月测评](https://blog.gujiakai.top/2024/11/gemini-advanced-2024-october-review.html)
 - [Anthropic更新内容测评](https://blog.gujiakai.top/2024/10/anthropic-updates-evaluation.html)
 - [远离绿云,灵魂上坡](https://blog.gujiakai.top/2024/10/stay-away-from-greencloud.html)
 - [bolt.new初体验](https://blog.gujiakai.top/2024/10/bolt-new-first-experience.html)
 - [自建书签应用Hoarder](https://blog.gujiakai.top/2024/10/self-hosted-bookmark-app-hoarder.html)
-- [ChatGPT 4o with canvas测评](https://blog.gujiakai.top/2024/10/chatgpt-4o-canvas-review.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 3.2. Weekly Posts 📄
