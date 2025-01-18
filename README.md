@@ -26,11 +26,11 @@ Change the world through code.
 ### 3.1. Blog Posts 📄
 
 <!-- BLOG-POST-LIST:START -->
+- [GLM Realtime API体验](https://blog.gujiakai.top/2025/01/glm-realtime-api-experience.html)
 - [OpenAI 12月份发布会更新笔记](https://blog.gujiakai.top/2024/12/notes-about-openai-december-updates.html)
 - [Claude封号的解决方案](https://blog.gujiakai.top/2024/11/claude-account-suspension-resolution.html)
 - [Claude 3.5 Haiku测评](https://blog.gujiakai.top/2024/11/claude-3-5-haiku-review.html)
 - [Gemini Advanced 2024年10月测评](https://blog.gujiakai.top/2024/11/gemini-advanced-2024-october-review.html)
-- [Anthropic更新内容测评](https://blog.gujiakai.top/2024/10/anthropic-updates-evaluation.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 3.2. Weekly Posts 📄
