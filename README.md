@@ -36,11 +36,11 @@ Change the world through code.
 ### 3.2. Weekly Posts 📄
 
 <!-- WEEKLY-POST-LIST:START -->
+- [他已如闪电般归来 #22](https://gujiakai.top/2025/01/weekly-issue-22)
 - [AI情感伴侣选择谁? #21](https://gujiakai.top/2024/09/weekly-issue-21)
 - [天选之人—川宝 #20](https://gujiakai.top/2024/07/weekly-issue-20)
 - [小红书真的能脱单？ #19](https://gujiakai.top/2024/06/weekly-issue-19)
 - [双非读研的窘境 #18](https://gujiakai.top/2024/05/weekly-issue-18)
-- [当MJJ一周年有感 #17](https://gujiakai.top/2024/03/weekly-issue-17)
 <!-- WEEKLY-POST-LIST:END -->
 
 ## 4. Statistical information📜
