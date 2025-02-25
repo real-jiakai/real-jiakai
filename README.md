@@ -26,7 +26,7 @@ Change the world through code.
 ### 3.1. Blog Posts 📄
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude 3.7 体验](https://blog.gujiakai.top/2025/02/claude-3-7-experience.html)
+- [Claude 3.7 Sonnet体验](https://blog.gujiakai.top/2025/02/claude-3-7-sonnet-experience.html)
 - [Gemini 2.0 体验](https://blog.gujiakai.top/2025/02/gemini-2-0-experience.html)
 - [豆包实时语音能唱的不跑调歌曲](https://blog.gujiakai.top/2025/01/doubao-real-time-on-pitch-songs.html)
 - [GLM Realtime API体验](https://blog.gujiakai.top/2025/01/glm-realtime-api-experience.html)
