@@ -1,5 +1,5 @@
 ![github logo](https://img.shields.io/badge/github-real--jiakai-lightgrey?logo=github)
-![Hits](https://hits.gujiakai.top/github.svg?action=view&count_bg=%2396BFF9&title_bg=%23222222&title=Visits&edge_flat=false)
+![Hits](https://hits.gujiakai.top/github.svg?action=hit&count_bg=%2396BFF9&title_bg=%23222222&title=Visits&edge_flat=false)
 
 <p align="center">
   <samp>
