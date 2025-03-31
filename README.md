@@ -26,11 +26,11 @@ Change the world through code.
 ### 3.1. Blog Posts 📄
 
 <!-- BLOG-POST-LIST:START -->
+- [自建Kasm Workspaces](https://blog.gujiakai.top/2025/03/self-hosted-kasm-workspaces/)
 - [Gemini 2.5 Pro体验](https://blog.gujiakai.top/2025/03/gemini-2-5-pro-experience/)
 - [Phind VS Devv](https://blog.gujiakai.top/2025/03/phind-vs-devv/)
 - [Claude 3.7 Sonnet体验](https://blog.gujiakai.top/2025/02/claude-3-7-sonnet-experience/)
 - [Gemini 2.0 体验](https://blog.gujiakai.top/2025/02/gemini-2-0-experience/)
-- [豆包实时语音能唱的不跑调歌曲](https://blog.gujiakai.top/2025/01/doubao-real-time-on-pitch-songs/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 3.2. Weekly Posts 📄
