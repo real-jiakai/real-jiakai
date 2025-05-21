@@ -26,11 +26,11 @@ Change the world through code.
 ### 3.1. Blog Posts 📄
 
 <!-- BLOG-POST-LIST:START -->
+- [Google I/O 2025记录](https://blog.gujiakai.top/2025/05/google-io-2025-notes/)
 - [ChatGPT o3、o4 mini体验](https://blog.gujiakai.top/2025/04/chatgpt-o3-o4-mini-experience/)
 - [自建Kasm Workspaces](https://blog.gujiakai.top/2025/03/self-hosted-kasm-workspaces/)
 - [Gemini 2.5 Pro体验](https://blog.gujiakai.top/2025/03/gemini-2-5-pro-experience/)
 - [Phind VS Devv](https://blog.gujiakai.top/2025/03/phind-vs-devv/)
-- [Claude 3.7 Sonnet体验](https://blog.gujiakai.top/2025/02/claude-3-7-sonnet-experience/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 3.2. Weekly Posts 📄
