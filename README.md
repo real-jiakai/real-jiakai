@@ -67,6 +67,5 @@ Change the world through code.
 
 ## 6. Contact 📧
 
-- 🔭 I'm a 2023 graduate of Nanjing Xiaozhuang University and a first-year graduate student of Guangxi Minzu University.
-- 🌱 I'm taking first-year graduate courses at school. In my free time, I go to the library to study job-related skills, aiming to find a decent programming job when I graduate.
 - 📫 email: jiakai@duck.com
+
