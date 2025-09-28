@@ -26,11 +26,11 @@ Change the world through code.
 ### 3.1. Blog Posts 📄
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Max尝鲜](https://blog.gujiakai.top/2025/09/claude-max-preview/)
 - [让Claude再次伟大!](https://blog.gujiakai.top/2025/08/make-claude-great-again/)
 - [Manus体验](https://blog.gujiakai.top/2025/07/manus-experience/)
 - [Grok 4真实体验](https://blog.gujiakai.top/2025/07/grok-4-real-experience/)
 - [Claude 4体验](https://blog.gujiakai.top/2025/05/claude-4-experience/)
-- [Google I/O 2025记录](https://blog.gujiakai.top/2025/05/google-io-2025-notes/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 3.2. Weekly Posts 📄
