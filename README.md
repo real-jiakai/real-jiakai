@@ -26,11 +26,11 @@ Change the world through code.
 ### 3.1. Blog Posts 📄
 
 <!-- BLOG-POST-LIST:START -->
+- [当大模型开始画答案](https://blog.gujiakai.top/2025/12/when-llms-start-drawing-answers/)
 - [“体验券”转正实录](https://blog.gujiakai.top/2025/11/from-trial-to-official/)
 - [Claude Sonnet 4.5短评](https://blog.gujiakai.top/2025/09/claude-sonnet-4-5-review/)
 - [Claude Max尝鲜](https://blog.gujiakai.top/2025/09/claude-max-preview/)
 - [让Claude再次伟大!](https://blog.gujiakai.top/2025/08/make-claude-great-again/)
-- [Manus体验](https://blog.gujiakai.top/2025/07/manus-experience/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 3.2. Weekly Posts 📄
