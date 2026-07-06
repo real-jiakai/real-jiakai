@@ -1,20 +1,24 @@
 name: Latest weekly post workflow
 on:
   schedule: # Run workflow automatically
-    - cron: '0 * * * *' # Runs every hour, on the hour
+    - cron: '30 0 * * *' # Runs every day at 12:30 AM UTC (staggered from blog workflow)
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
 permissions:
   contents: write # To write the generated contents to the readme
 
+concurrency:
+  group: readme-feed-update
+  cancel-in-progress: false
+
 jobs:
-  update-readme-with-blog:
+  update-readme-with-weekly:
     name: Update this repo's README with latest weekly posts
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v7
       - name: Pull in weekly posts
-        uses: gautamkrishnar/blog-post-workflow@master
+        uses: gautamkrishnar/blog-post-workflow@1.9.6
         with:
           feed_list: "https://gujiakai.top/index.xml"
           comment_tag_name: "WEEKLY-POST-LIST"

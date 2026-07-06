@@ -1,5 +1,5 @@
 ![github logo](https://img.shields.io/badge/github-real--jiakai-lightgrey?logo=github)
-![Hits](https://hits.gujiakai.top/github.svg?action=hit&count_bg=%2396BFF9&title_bg=%23222222&title=Visits&edge_flat=false)
+![profile view count](https://hits.gujiakai.top/github.svg?action=hit&count_bg=%2396BFF9&title_bg=%23222222&title=Visits&edge_flat=false)
 
 <p align="center">
   <samp>
@@ -43,11 +43,15 @@ Change the world through code.
 - [小红书真的能脱单？ #19](https://gujiakai.top/2024/06/weekly-issue-19)
 <!-- WEEKLY-POST-LIST:END -->
 
-## 4. Statistical information📜
+## 4. Statistical information 📜
 
 - github contribution
 
-![github contribution](https://raw.githubusercontent.com/real-jiakai/real-jiakai/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/real-jiakai/real-jiakai/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/real-jiakai/real-jiakai/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/real-jiakai/real-jiakai/output/github-contribution-grid-snake.svg" />
+</picture>
 
 - waka time
 
@@ -61,9 +65,9 @@ Change the world through code.
 
 ![most used languages](https://github-readme-stats-jiakai.vercel.app/api/top-langs/?username=real-jiakai&theme=radical)
 
-## 5. Recently listen 🎵
+## 5. Recently listening 🎵
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31xulne5z45q3wqlwgogsrxcsgg4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![jiakai's recently played Spotify track](https://spotify-github-profile.kittinanx.com/api/view?uid=31xulne5z45q3wqlwgogsrxcsgg4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 ## 6. Contact 📧
 
