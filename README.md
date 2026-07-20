@@ -14,12 +14,12 @@
 
 ![hello i am jaya](https://raw.githubusercontent.com/real-jiakai/real-jiakai/main/assets/hello-im-jaya.svg)
 
-Specialties: Programming && Blogging && AI Prompt Engineer
+Specialties: Programming && Blogging && Vibe Coding Engineer
 
 ## 2. Goal 🚩
 
-Become a full stack programmer in the future.
-Change the world through code.
+Cultivate students to become outstanding full-stack programmers.
+Change the world through teaching.
 
 ## 3. Recent Articles 📝
 
@@ -52,10 +52,6 @@ Change the world through code.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/real-jiakai/real-jiakai/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/real-jiakai/real-jiakai/output/github-contribution-grid-snake.svg" />
 </picture>
-
-- waka time
-
-![waka time](https://wakatime.com/share/@Jaya/b277c128-2898-4b50-a06b-80e5e93e642d.svg)
 
 - github stats
 

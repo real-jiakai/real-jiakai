@@ -70,7 +70,7 @@ compile or run. To validate a change:
 ## Previewing README.md
 
 GitHub renders `README.md` on the profile page directly — there is no local
-preview step to run. Several badges/widgets (WakaTime, github-readme-stats,
+preview step to run. Several badges/widgets (github-readme-stats,
 spotify-github-profile, hits counter) are external services fetched live by
 GitHub's image proxy; they can be slow or briefly show a broken-image icon
 without indicating a real problem in this repo.
