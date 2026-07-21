@@ -63,9 +63,8 @@ Change the world through teaching.
 
 ## 5. Recently listening 🎵
 
-[![jiakai's recently played Spotify track](https://spotify-github-profile.kittinanx.com/api/view?uid=31xulne5z45q3wqlwgogsrxcsgg4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![jiakai's recently played Spotify track](https://spotify-github-profile.kittinanx.com/api/view?uid=31xulne5z45q3wqlwgogsrxcsgg4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
 
 ## 6. Contact 📧
 
 - 📫 email: jiakai@duck.com
-
