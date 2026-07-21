@@ -36,11 +36,11 @@ Change the world through teaching.
 ### 3.2. Weekly Posts 📄
 
 <!-- WEEKLY-POST-LIST:START -->
-- [站在校园与社会的十字路口 #23](https://gujiakai.top/2026/01/weekly-issue-23)
-- [他已如闪电般归来 #22](https://gujiakai.top/2025/01/weekly-issue-22)
-- [AI情感伴侣选择谁? #21](https://gujiakai.top/2024/09/weekly-issue-21)
-- [天选之人—川宝 #20](https://gujiakai.top/2024/07/weekly-issue-20)
-- [小红书真的能脱单？ #19](https://gujiakai.top/2024/06/weekly-issue-19)
+- [Standing at the Crossroads of Campus and Society #23](https://gujiakai.top/en/2026/01/weekly-issue-23)
+- [He Has Returned Like Lightning #22](https://gujiakai.top/en/2025/01/weekly-issue-22)
+- [Which AI Emotional Companion to Choose? #21](https://gujiakai.top/en/2024/09/weekly-issue-21)
+- [The Chosen One—Trump #20](https://gujiakai.top/en/2024/07/weekly-issue-20)
+- [Can You Really Find Love on Xiaohongshu? #19](https://gujiakai.top/en/2024/06/weekly-issue-19)
 <!-- WEEKLY-POST-LIST:END -->
 
 ## 4. Statistical information 📜
