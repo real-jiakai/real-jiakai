@@ -20,5 +20,5 @@ jobs:
       - name: Pull in weekly posts
         uses: gautamkrishnar/blog-post-workflow@1.9.6
         with:
-          feed_list: "https://gujiakai.top/index.xml"
+          feed_list: "https://gujiakai.top/en/index.xml"
           comment_tag_name: "WEEKLY-POST-LIST"
