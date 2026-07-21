@@ -26,11 +26,11 @@ Change the world through teaching.
 ### 3.1. Blog Posts 📄
 
 <!-- BLOG-POST-LIST:START -->
-- [Perplexity Max尝鲜](https://blog.gujiakai.top/2026/06/trying-perplexity-max/)
-- [六月未央，执笔归来](https://blog.gujiakai.top/2026/06/june-back-to-writing/)
-- [Claude Max回味](https://blog.gujiakai.top/2026/01/claude-max-aftertaste/)
-- [当大模型开始画答案](https://blog.gujiakai.top/2025/12/when-llms-start-drawing-answers/)
-- [“体验券”转正实录](https://blog.gujiakai.top/2025/11/from-trial-to-official/)
+- [Trying Out Perplexity Max](https://blog.gujiakai.top/en/2026/06/trying-perplexity-max/)
+- [June Is Still Young, Back to Writing](https://blog.gujiakai.top/en/2026/06/june-back-to-writing/)
+- [Reflections on Claude Max](https://blog.gujiakai.top/en/2026/01/claude-max-aftertaste/)
+- [When LLMs Start Drawing Answers](https://blog.gujiakai.top/en/2025/12/when-llms-start-drawing-answers/)
+- [From Trial to Official: My Relationship Journey](https://blog.gujiakai.top/en/2025/11/from-trial-to-official/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 3.2. Weekly Posts 📄
