@@ -19,5 +19,5 @@ jobs:
       - name: Pull in blog posts
         uses: gautamkrishnar/blog-post-workflow@1.9.6
         with:
-          feed_list: "https://blog.gujiakai.top/index.xml"
+          feed_list: "https://blog.gujiakai.top/en/index.xml"
           comment_tag_name: "BLOG-POST-LIST"
