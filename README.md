@@ -26,11 +26,11 @@ Change the world through teaching.
 ### 3.1. Blog Posts 📄
 
 <!-- BLOG-POST-LIST:START -->
+- [Notes on Getting Four Months of Free ChatGPT Plus](https://blog.gujiakai.top/en/2026/08/four-months-free-chatgpt-plus/)
 - [AI Tinkering Notes, One Month After Graduation](https://blog.gujiakai.top/en/2026/07/ai-notes-one-month-after-graduation/)
 - [Trying Out Perplexity Max](https://blog.gujiakai.top/en/2026/06/trying-perplexity-max/)
 - [June Is Still Young, Back to Writing](https://blog.gujiakai.top/en/2026/06/june-back-to-writing/)
 - [Reflections on Claude Max](https://blog.gujiakai.top/en/2026/01/claude-max-aftertaste/)
-- [When LLMs Start Drawing Answers](https://blog.gujiakai.top/en/2025/12/when-llms-start-drawing-answers/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 3.2. Weekly Posts 📄
